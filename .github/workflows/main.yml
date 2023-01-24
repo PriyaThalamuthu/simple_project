@@ -1,4 +1,3 @@
-#.github/workflows/basic.yaml
 name: task - validate commit on master
 on:
   push:
